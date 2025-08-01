@@ -1,5 +1,42 @@
 # Elite Cargo Tracker v1.0.9
 
+A comprehensive cargo tracking and trading analytics tool for Elite Dangerous commanders. Monitor your cargo operations, track profits, and stay informed with real-time notifications.
+
+## Description
+
+Elite Cargo Tracker is a standalone Windows application that automatically monitors your Elite Dangerous journal files to provide real-time cargo tracking and trading analytics. Whether you're running trade routes, participating in community goals, or managing your fleet operations, this tool helps you stay organized and maximize your profits.
+
+### Key Capabilities:
+- **Real-time Monitoring**: Automatically reads Elite Dangerous journal files to track cargo changes
+- **Trading Analytics**: Calculate profits, track trade routes, and analyze market performance
+- **Community Goals**: Monitor and track progress on community goals and events
+- **Discord Integration**: Send notifications to Discord channels for important events
+- **Alert System**: Get notified of interdictions and other critical events
+- **Data Export**: Export your trading data in CSV, JSON, or HTML formats
+
+## Screenshots
+
+### Main Interface
+![Main Interface](images/Elite_Cargo_Tracker_Txi700JG8W.png)
+
+### Cargo Tracking
+![Cargo Tracking](images/Elite_Cargo_Tracker_oaNqZh8nCp.png)
+
+### Trading Analytics
+![Trading Analytics](images/Elite_Cargo_Tracker_7e4DgcwFzC.png)
+
+### Community Goals
+![Community Goals](images/Elite_Cargo_Tracker_Fj8YmDFWtv.png)
+
+### Settings & Configuration
+![Settings](images/Elite_Cargo_Tracker_8IcU3Thtzy.png)
+
+### Export Features
+![Export Features](images/Elite_Cargo_Tracker_my8K3OH2d4.png)
+
+### Alert System
+![Alert System](images/Elite_Cargo_Tracker_pIT6ZoHdAH.png)
+
 ## Installation
 
 This is a standalone executable - no Python installation required!
