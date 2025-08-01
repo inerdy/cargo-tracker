@@ -1,0 +1,4 @@
+Elite Cargo Tracker v1.0.9
+Build Date: 2025-08-01
+Build Number: 010
+Executable created: 2025-08-01 12:07:37
