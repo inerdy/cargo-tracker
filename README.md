@@ -16,26 +16,24 @@ Elite Cargo Tracker is a standalone Windows application that automatically monit
 
 ## Screenshots
 
-### Main Interface
-![Main Interface](images/Elite_Cargo_Tracker_Txi700JG8W.png)
+### Chat
+![Chat](images/Elite_Cargo_Tracker_Txi700JG8W.png)
 
-### Cargo Tracking
-![Cargo Tracking](images/Elite_Cargo_Tracker_oaNqZh8nCp.png)
-
-### Trading Analytics
-![Trading Analytics](images/Elite_Cargo_Tracker_7e4DgcwFzC.png)
+### Settings
+![Settings](images/Elite_Cargo_Tracker_oaNqZh8nCp.png)
 
 ### Community Goals
-![Community Goals](images/Elite_Cargo_Tracker_Fj8YmDFWtv.png)
+![Community Goals](images/Elite_Cargo_Tracker_7e4DgcwFzC.png)
 
-### Settings & Configuration
-![Settings](images/Elite_Cargo_Tracker_8IcU3Thtzy.png)
+### Trading Analytics
+![Trading Analytics](images/Elite_Cargo_Tracker_Fj8YmDFWtv.png)
 
-### Export Features
-![Export Features](images/Elite_Cargo_Tracker_my8K3OH2d4.png)
+### Captain Info
+![Captain Info](images/Elite_Cargo_Tracker_8IcU3Thtzy.png)
 
-### Alert System
-![Alert System](images/Elite_Cargo_Tracker_pIT6ZoHdAH.png)
+### Cargo Manifest
+![Cargo Manifest](images/Elite_Cargo_Tracker_my8K3OH2d4.png)
+
 
 ## Installation
 
